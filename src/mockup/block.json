@@ -1,0 +1,15 @@
+{
+    "number": 1000001,
+    "miner": "0x0000000000000000000000000000000000000000",
+    "transactionCount": 1,
+    "rewards": "0.00015",
+    "timestamp": 1653621696,
+    "difficulty": "0",
+    "totalDifficulty": "0",
+    "size": 0,
+    "gasUsed": 0,
+    "hash": "",
+    "parentHash": "",
+    "sha3Uncles": "",
+    "nonce": ""
+}

@@ -1,0 +1,18 @@
+{
+    "username":                     "JackTalent",
+    "email":                        "jacktalent0123@gmail.com",
+    "lastLogin":                    123123,
+    "totalEthBalance":              0,
+    "emailNotif":                   0,
+    "emailNotifLimit":              200,
+    "addressWatchList":             0,
+    "addressWatchListLimit":        50,
+    "txnNotes":                     0,
+    "txnNotesLimit":                200,
+    "addressTags":                  0,
+    "addressTagsLimit":             1000,
+    "apiKeyUsage":                  0,
+    "apiKeyUsageLimit":             3,
+    "verifiedAdresses":             0,
+    "verifiedAdressesStatus":       false
+}

@@ -1,0 +1,18 @@
+{
+    "txId": "0xaaaaa00000aaaaa00000aaaaa00000aaaaa00000aaaaa00000aaaaa00000aaaa",
+    "from": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "to": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaa",
+    "value": "0",
+    "timestamp": 1653621696,
+    "status": true,
+    "blocknumber": 0,
+    "toIsContract": true,
+    "logs": [],
+    "fee": 0,
+    "gasLimit": 0,
+    "gasUsed": 0,
+    "gasPrice": 0,
+    "nonce": 0,
+    "input": "",
+    "privateNote": ""
+}

@@ -1,0 +1,100 @@
+{
+    "mockAddress": [
+        {
+            "address": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+            "balance": "565754722.901920911726651319",
+            "tokens": [
+                {
+                    "name": "Tether USD",
+                    "contract": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+                    "balance": "1236456",
+                    "decimals": 18
+                }
+            ],
+            "nameTag": "",
+            "creator": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+            "createTx": "0x5d0c557090d50a6c78358fa9e2f61bb3943dc555521b4eb33d7e897baaeacc05",
+            "txs": [],
+            "internalTxs": [],
+            "erc20Txs": [],
+            "erc721Txs": [],
+            "erc1155Txs": [],
+            "contract": [],
+            "events": [],
+            "analystics": [],
+            "comment": []
+        },
+        {
+            "address": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaa",
+            "balance": "565754722.901920911726651319",
+            "tokens": [
+                {
+                    "name": "Tether USD",
+                    "contract": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+                    "balance": "1236456",
+                    "decimals": 18
+                }
+            ],
+            "nameTag": "",
+            "creator": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+            "createTx": "0x5d0c557090d50a6c78358fa9e2f61bb3943dc555521b4eb33d7e897baaeacc05",
+            "txs": [],
+            "internalTxs": [],
+            "erc20Txs": [],
+            "erc721Txs": [],
+            "erc1155Txs": [],
+            "contract": [],
+            "events": [],
+            "analystics": [],
+            "comment": []
+        },
+        {
+            "address": "0x0000000000000000000000000000000000000000",
+            "balance": "565754722.901920911726651319",
+            "tokens": [
+                {
+                    "name": "Tether USD",
+                    "contract": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+                    "balance": "1236456",
+                    "decimals": 18
+                }
+            ],
+            "nameTag": "",
+            "creator": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+            "createTx": "0x5d0c557090d50a6c78358fa9e2f61bb3943dc555521b4eb33d7e897baaeacc05",
+            "txs": [],
+            "internalTxs": [],
+            "erc20Txs": [],
+            "erc721Txs": [],
+            "erc1155Txs": [],
+            "contract": [],
+            "events": [],
+            "analystics": [],
+            "comment": []
+        },
+        {
+            "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+            "balance": "565754722.901920911726651319",
+            "tokens": [
+                {
+                    "name": "Tether USD",
+                    "contract": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+                    "balance": "1236456",
+                    "decimals": 18
+                }
+            ],
+            "nameTag": "",
+            "creator": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+            "createTx": "0x5d0c557090d50a6c78358fa9e2f61bb3943dc555521b4eb33d7e897baaeacc05",
+            "txs": [],
+            "internalTxs": [],
+            "erc20Txs": [],
+            "erc721Txs": [],
+            "erc1155Txs": [],
+            "contract": [],
+            "events": [],
+            "analystics": [],
+            "comment": []
+        }
+    ]
+}
